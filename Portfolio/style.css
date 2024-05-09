@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-image: url(./img/3.webp);
+}
+
+.name h2{
+    font-family: "Alkatra", sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin: 0;
+}
+
+.name img{
+    height: 300px;
+    width: 200px;
+    margin-left: 43%;
+    border-radius: 10px;
+}
+
+.name h1{
+    text-align: center;
+    margin: 0;
+    font-size: 180px;
+}
+
+.name h5{
+    font-family: "Truculenta", sans-serif;
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+}
+
+.work h1{
+    font-family: "Alkatra", sans-serif;
+    font-size: 80px;
+    margin-left: 80px;
+}
+
+.work h3{
+    margin-left: 20%;
+    font-size: 25px;
+}
+
+.work h4{
+    margin-left: 20%;
+    font-size: 25px;
+    font-family: "Truculenta", sans-serif;
+}
+
+.skills h1{
+    font-family: "Alkatra", sans-serif;
+    font-size: 80px;
+    margin-left: 80px;
+}
+
+.skills h2{
+    font-family: "Alkatra", sans-serif;
+    font-size: 30px;
+    margin-left: 80px;
+}
+
+.skills h3{
+    font-family: "Truculenta", sans-serif;
+    font-size: 20px;
+    margin-left: 150px;
+}
+
+.projects h1{
+    font-family: "Alkatra", sans-serif;
+    font-size: 80px;
+    margin-left: 80px;
+}
+
+.projects h3{
+    font-family: "Alkatra", sans-serif;
+    font-size: 30px;
+    margin-left: 80px;
+}
+
+.projects h4{
+    font-family: "Truculenta", sans-serif;
+    font-size: 20px;
+    margin-left: 80px;
+}
+
+.projects img{
+    margin: 30px;
+    width: 300px;
+}
+
+.cer h1{
+    font-family: "Alkatra", sans-serif;
+    font-size: 80px;
+    margin-left: 80px;
+}
+
+.cer h3{
+    font-family: "Truculenta", sans-serif;
+    font-size: 30px;
+    margin-left: 80px;
+}
